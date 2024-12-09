@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Detalles del pedido -->
+    <TextView
+        android:id="@+id/pedidoIdTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID del Pedido" />
+
+    <TextView
+        android:id="@+id/detallesPedidoTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Detalles del Pedido" />
+
+    <Button
+        android:id="@+id/aceptarPedidoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aceptar Pedido" />
+
+    <Button
+        android:id="@+id/cancelarPedidoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancelar Pedido" />
+</LinearLayout>

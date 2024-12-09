@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AplicacionCliente</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="checkout">Checkout</string>
+    <string name="aceptar_pedido">Aceptar Pedido</string>
+    <string name="cancelar_pedido">Cancelar Pedido</string>
+    <string name="estado_pedido">Estado del Pedido</string>
+    <string name="marcar_en_camino">Marcar como en Camino</string>
+    <string name="marcar_entregado">Marcar como Entregado</string>
+</resources>
